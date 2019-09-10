@@ -42,6 +42,4 @@ end
 
 def over?(board)
   full?(board) OR won?(board)
-  
-  
 end   
