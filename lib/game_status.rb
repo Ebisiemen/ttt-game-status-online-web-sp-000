@@ -48,6 +48,6 @@ def winner(board)
   win_combination = won?(board)
   if win_combination 
     index = win_combination[0]
-    board(index)
+    board[index]
   end   
 end   
