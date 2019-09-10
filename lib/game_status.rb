@@ -16,7 +16,7 @@ WIN_COMBINATIONS = [
   ]
   
 def won?(board)
-  for a_combination in WIN_COMBINATIONS
+  for win_combination in WIN_COMBINATIONS
   end 
   false 
 end   
